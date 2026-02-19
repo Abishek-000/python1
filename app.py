@@ -1,6 +1,6 @@
 #app.py
-a=7
-b=3
+a=6
+b=4
 
 def add(x,y):
     return x+y
